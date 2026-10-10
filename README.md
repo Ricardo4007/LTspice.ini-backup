@@ -1,7 +1,8 @@
 # Personal LTspice config file backup  
 changes from the original:
-- reverted the direction of mouse wheel rotation
-- schematic color preferences changes
+- direction of mouse wheel rotation
+- schematic color preferences
+- schematic shortcut keys
 - grid, line, cursor settings
 - other minor changes over the years I can't remember
 
@@ -12,4 +13,4 @@ example screenshot:
 The normal path for LTspice.ini is `~\AppData\Roaming` (for Windows), **first backup your config**, than move the modified file to that location
 
 ## NOTE:
-this config file is for LTspice version 26.0.2, it might not be compatible with other historical versions or upcoming releases.
+This config file is for LTspice version 26.1.1, it might not be compatible with other historical versions or upcoming releases.
